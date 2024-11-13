@@ -10,3 +10,10 @@ To get started with these demos, you'll need an OpenAI API key. If you don't hav
 - Prerequisites
   - Node.js (for backend demos)
   - An OpenAI API key
+
+
+## 🤝 Contributing
+We welcome contributions! Feel free to open submit a pull request with your own demos, improvements, or suggestions.
+
+## 📜 License
+This project is licensed under the MIT License.
